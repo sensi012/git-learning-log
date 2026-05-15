@@ -13,9 +13,4 @@ I'm learning Git and version control to track my work.
 - Every commit is a snapshot you can go back to
 - Git tracks changes to files over time
 - Branches let you experiment without affecting the main project
-<<<<<<< HEAD
 - You can merge branches back together when ready
-=======
-- You can merge branches back together when ready
-
->>>>>>> b99d29574af805746ea7c0eb5a2a9172cbdd508e
